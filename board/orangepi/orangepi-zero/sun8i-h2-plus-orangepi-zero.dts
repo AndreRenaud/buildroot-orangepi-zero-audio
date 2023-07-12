@@ -271,3 +271,7 @@
 	status = "okay";
 };
 
+&i2c0_pins {
+	bias-pull-up;
+};
+
